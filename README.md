@@ -1,3 +1,3 @@
 # devops_p
 devops class 
-learning git
+learning git from github
